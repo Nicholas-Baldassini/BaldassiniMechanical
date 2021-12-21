@@ -1,0 +1,16 @@
+.front-container{
+    position: relative;
+    margin: auto;
+}
+.title-name{
+   
+    text-align: center;
+}
+
+#front-page-p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    margin: auto;
+    text-align: center;
+    width: 30%;
+}
