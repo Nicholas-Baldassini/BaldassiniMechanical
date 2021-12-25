@@ -1,0 +1,12 @@
+.residentialText {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+.divider {
+    position: absolute;
+    bottom: 0px;
+}
